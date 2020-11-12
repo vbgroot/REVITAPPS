@@ -1,2 +1,2 @@
 # REVITAPPS
-This repository is for absolute beginners to create new features, tools and macro for Revit software
+This repository will serve as a headsup for begginers to create new plugins for Revit software.
