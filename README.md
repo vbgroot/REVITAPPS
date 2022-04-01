@@ -1,2 +1,2 @@
 # REVITAPPS
-This repository will serve as a headsup for begginers to create new plugins for Revit software.
+This repository will serve as a headsup for beginners to create new plugins for Revit software.
